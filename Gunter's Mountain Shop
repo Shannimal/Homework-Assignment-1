@@ -1,0 +1,19 @@
+//Homework Assignement 1
+//Shannon O'Shea COP200 
+#include <iostream> 
+using namespace std;
+
+int main()
+{
+  cout<< "*****************************************" << endl;
+  cout<< "**        //\                          **" << endl;
+  cout<< "**       //  \  //\                    **" << endl;
+  cout<< "**      //    \//  \      //\          **" << endl;
+  cout<< "**     //           \    //  \         **" << endl;
+  cout<< "**    //             \  //    \        **" << endl;
+  cout<< "**   //               \//      \       **" << endl;
+  cout<< "**  //                          \      **" << endl;
+  cout<< "*****************************************" << endl;
+
+  return 0;
+}
